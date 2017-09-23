@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedGatewayTesting", "AutomatedGatewayTesting\AutomatedGatewayTesting.csproj", "{9FDD7035-6496-41D0-AC12-BC79E336B2C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FDD7035-6496-41D0-AC12-BC79E336B2C7}.Debug|x86.ActiveCfg = Debug|x86
+		{9FDD7035-6496-41D0-AC12-BC79E336B2C7}.Debug|x86.Build.0 = Debug|x86
+		{9FDD7035-6496-41D0-AC12-BC79E336B2C7}.Release|x86.ActiveCfg = Release|x86
+		{9FDD7035-6496-41D0-AC12-BC79E336B2C7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
