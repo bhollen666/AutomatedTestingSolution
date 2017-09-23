@@ -27,6 +27,7 @@ namespace AutomatedGatewayTesting
                 Console.WriteLine("Error: Missing command input arguments!");
                 Console.WriteLine("AutomatedGatewayTesting[.exe] CommandsFile.config hostIP hostPort [LogFileName]");
                 Console.WriteLine("AutomatedGatewayTesting.exe FTP75Cmds.config 192.168.1.12 7798 20140325.Log");
+                Console.WriteLine("");
                 return;
             }
             else
